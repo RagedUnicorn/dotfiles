@@ -25,3 +25,6 @@
 ehthumbs.db
 Icon
 Thumbs.db
+
+# include intellij settings
+!java/intellij-settings.jar
